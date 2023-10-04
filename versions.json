@@ -1,5 +1,6 @@
 {
-  "logger": "1.2.4",
-  "converter": "1.0.1",
-  "peripheral": "2.3.5"
+  "logger": "0.0.1",
+  "splitter": "0.0.1",
+  "peripheral": "0.0.1",
+  "gui": "0.0.1"
 }
