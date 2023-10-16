@@ -1,6 +1,6 @@
 {
   "logger": "0.0.1",
-  "splitter": "0.0.1",
+  "splitter": "1.0.0",
   "peripheral": "0.0.1",
   "gui": "0.0.1"
 }
