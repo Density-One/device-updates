@@ -1,6 +1,6 @@
 {
-  "logger": "0.0.1",
-  "splitter": "1.0.0",
-  "peripheral": "0.0.1",
-  "gui": "0.0.1"
+  "densityLogger": "0.0.1",
+  "densitySplitter": "1.0.0",
+  "densityPeripheral": "0.0.1",
+  "densityGui": "0.0.1"
 }
